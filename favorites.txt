@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Borscht
 Sushi
+=======
+Inception
+Shrek
+The Matrix
+>>>>>>> movies
